@@ -161,4 +161,7 @@ export default defineConfig({
     // https://vitest.dev/guide/common-errors.html#failed-to-terminate-worker
     pool: 'forks',
   },
+  run: {
+    cache: true,
+  },
 });
