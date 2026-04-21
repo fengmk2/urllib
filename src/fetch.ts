@@ -32,6 +32,8 @@ import { convertHeader, globalId, performanceTime, updateSocketInfo } from './ut
 
 const debug = debuglog('urllib/fetch');
 
+// foo
+
 export interface UrllibRequestInit extends RequestInit {
   // default is true
   timing?: boolean;
