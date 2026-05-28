@@ -99,8 +99,7 @@
     "tshy": "^4.0.0",
     "tshy-after": "^1.4.1",
     "typescript": "^6.0.0",
-    "vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1588",
-    "vitest": "^4.1.5"
+    "vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1588"
   },
   "tshy": {
     "exports": {
