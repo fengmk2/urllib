@@ -20,7 +20,7 @@ peerDependencyRules:
     vite: '*'
     vitest: '*'
 catalog:
-  vite: npm:@voidzero-dev/vite-plus-core@0.0.0-commit.1081f16319db3823ff566dbfebaa38d662184478
+  vite: npm:@voidzero-dev/vite-plus-core@0.0.0-commit.452cbf6cf0b110855991ff512ee4d5122fa59b32
   vitest: 4.1.9
-  vite-plus: 0.0.0-commit.1081f16319db3823ff566dbfebaa38d662184478
+  vite-plus: 0.0.0-commit.452cbf6cf0b110855991ff512ee4d5122fa59b32
   '@vitest/coverage-v8': 4.1.9
